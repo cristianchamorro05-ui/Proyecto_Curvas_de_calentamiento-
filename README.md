@@ -1,2 +1,2 @@
-# Proyecto_Curvas_de_calentamiento-
+# Proyecto - Curvas de calentamiento
 Código y evidencias experimentales
